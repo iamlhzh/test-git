@@ -166,7 +166,6 @@ public class PushUtil {
     public static void main(String[] args) {
         PushUtil.pushMsg();
         master
-			master1
     }
 
 }
