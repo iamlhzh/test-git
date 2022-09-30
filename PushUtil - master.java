@@ -165,9 +165,6 @@ public class PushUtil {
 
     public static void main(String[] args) {
         PushUtil.pushMsg();
-		dev
-        master
-			master1
     }
 
 }
